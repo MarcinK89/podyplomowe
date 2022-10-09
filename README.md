@@ -1,2 +1,3 @@
 # podyplomowe
 Program wskazuje liczbę uczestników studiów podyplomownych na uczelni WSZIB na kierunku Java WEB developer
+![obrazek](https://www.bing.com/images/search?view=detailV2&ccid=CfXGrg1z&id=080634C4C736D73FC0EB57B972A594C36773A9C8&thid=OIP.CfXGrg1zh3xPwllRcHNf-QHaD4&mediaurl=https%3a%2f%2fgithub.githubassets.com%2fimages%2fmodules%2fopen_graph%2fgithub-mark.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.09f5c6ae0d73877c4fc2595170735ff9%3frik%3dyKlzZ8OUpXK5Vw%26pid%3dImgRaw%26r%3d0&exph=630&expw=1200&q=git+hub+grafika&simid=608023372241464610&FORM=IRPRST&ck=98204E77A7D5C274F697D59CEC2603A9&selectedIndex=12)
