@@ -10,7 +10,7 @@ public class podyplomowe {
 
         System.out.println("Na uczelni " + uczelnia + " w Krakowie na studiach podyplomowych " + nazwakursu + " uczestniczy " + iloscStudentow + " studentów. ");
 
-
+        //KOMENTARZ
 
     }
 }
