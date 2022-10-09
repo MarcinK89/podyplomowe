@@ -8,9 +8,9 @@ public class podyplomowe {
         nazwakursu = "Java WEB Developer";
         iloscStudentow = 20;
 
-        System.out.println("Na uczelni " + uczelnia + " na studiach podyplomowych " + nazwakursu + " uczestniczy " + iloscStudentow + " studentów. ");
+        System.out.println("Na uczelni " + uczelnia + " w Krakowie na studiach podyplomowych " + nazwakursu + " uczestniczy " + iloscStudentow + " studentów. ");
 
-        
+
 
     }
 }
